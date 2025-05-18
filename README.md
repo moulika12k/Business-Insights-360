@@ -15,6 +15,14 @@ Business Insights 360 is a data analytics project focused on delivering actionab
 
 ---
 
+![Image](https://github.com/user-attachments/assets/76f13ae0-83d7-4329-a9ec-8ba3e8e308c6)
+![Image](https://github.com/user-attachments/assets/026a7c29-4ab2-4bc1-a16b-42b5abfc44a0)
+![Image](https://github.com/user-attachments/assets/7e78dcfa-5db3-45ef-b468-0167a85771e0)
+![Image](https://github.com/user-attachments/assets/c7191808-aea9-4bfe-a178-641629d7b5fd)
+![Image](https://github.com/user-attachments/assets/bfc67808-b38c-4b6b-b1a8-196285694a53)
+![Image](https://github.com/user-attachments/assets/8faa3318-ddd1-4177-9bd9-749fb3fbe94e)
+
+
 ## 🛠️ Tools & Technologies
 
 - **Power BI** – for data modeling and visualization
