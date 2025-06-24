@@ -16,7 +16,7 @@
 ---
 
 ## 🔗 Live Dashboard  
-👉 [**Click here to explore the live Power BI dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMzBjZjMwYmMtMGI5ZS00ZjcyLTk2NTctMTdmYWI1OGRhZGEzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+👉 [**Click here to explore the live Power BI dashboard**](https://project.novypro.com/he97DB)
 
 ---
 
