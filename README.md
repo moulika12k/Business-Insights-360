@@ -42,10 +42,3 @@ Contributions and feedback are welcome!
 Feel free to open issues or submit pull requests.
 
 ---
-
-## 🙌 Acknowledgments
-
-Special thanks to mentors **Hemanand Vadivel** and **Dhaval Patel**.  
-This project was developed as part of the **Power BI course by CodeBasics**.
-
----
