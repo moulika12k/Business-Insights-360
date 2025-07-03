@@ -20,6 +20,13 @@
 
 ---
 
+## 🎥 Project Walkthrough Video
+
+Watch the full dashboard explanation and insights presentation here:  
+👉 [YouTube Video](https://youtu.be/pzP2Qi7oWtg)
+
+---
+
 ## 🏆 Key Highlights
 
 - **Tailored Design**: Built specifically for AtliQ Hardware’s business operations.
